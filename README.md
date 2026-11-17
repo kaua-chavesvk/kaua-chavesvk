@@ -1,8 +1,8 @@
 # Olá, eu sou o Kaua! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro (1º semestre)
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro (3º semestre)
 📍 Fortaleza, CE — Brasil
-🚀 Buscando meu primeiro estágio em TI
+🚀 Buscando estágio em TI
 💻 Apaixonado por tecnologia e desenvolvimento web
 
 ---
