@@ -1,44 +1,30 @@
-# Olá, eu sou o Kaua! 👋
+# Olá, eu sou o Kauã Chaves!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro (3º semestre)
-📍 Fortaleza, CE — Brasil
-🚀 Buscando estágio em TI
-💻 Apaixonado por tecnologia e desenvolvimento web
+Estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fortaleza, CE. Busco uma oportunidade de estágio em TI e desenvolvo projetos para praticar interfaces web, integração com APIs e aplicações com autenticação e banco de dados.
 
----
+[Currículo e portfólio](https://kaua-chavesvk.github.io/web-curiculo/) · [Repositórios](https://github.com/kaua-chavesvk?tab=repositories) · [Atividade e contribuições](https://github.com/kaua-chavesvk)
 
-## 🛠️ Tecnologias que uso
+## Projetos em destaque
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+| Projeto | O que você encontra | Tecnologias | Acessar |
+| --- | --- | --- | --- |
+| **EquipeDesk** | Aplicação de atendimento interno com chamados, empresas, papéis de acesso e integração com autenticação e banco de dados. O README registra as funcionalidades e os limites das validações. | Next.js, React, TypeScript, Tailwind CSS, Supabase e PostgreSQL | [Site](https://miakaelsondesk.vercel.app/) · [Código e documentação](https://github.com/kaua-chavesvk/equipedesk) |
+| **TicketNow** | Catálogo de eventos com busca, filtros e carrinho demonstrativo. Interface responsiva, testes e servidor opcional para integração com a Ticketmaster. A versão no GitHub Pages utiliza exemplos identificados, sem pagamentos. | HTML, CSS, JavaScript e Node.js | [Demonstração](https://kaua-chavesvk.github.io/ticketnow-portifolio/) · [Código e documentação](https://github.com/kaua-chavesvk/ticketnow-portifolio) |
+| **Currículo web** | Apresentação pessoal com formação, contato, projetos e impressão para salvar em PDF. | HTML, CSS e JavaScript | [Site](https://kaua-chavesvk.github.io/web-curiculo/) · [Código](https://github.com/kaua-chavesvk/web-curiculo) |
 
----
+### TicketNow em funcionamento
 
-## 📌 Projetos em destaque
+[![TicketNow: catálogo de eventos com busca, filtros e carrinho demonstrativo](https://raw.githubusercontent.com/kaua-chavesvk/ticketnow-portifolio/main/docs/images/ticketnow-desktop.png)](https://kaua-chavesvk.github.io/ticketnow-portifolio/)
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🌐 Portfólio Web | Site pessoal com currículo e projetos | HTML, CSS, JS |
-| ☕ Sistema Java | Gerenciamento com orientação a objetos | Java, OOP |
-| 🐍 Automação Python | Scripts para organizar arquivos e dados | Python, OS, CSV |
+O [README do TicketNow](https://github.com/kaua-chavesvk/ticketnow-portifolio#readme) explica como executar, testar e configurar o catálogo real. O projeto não realiza cobranças, reservas ou emissão de ingressos.
 
----
+## Tecnologias que utilizo nos projetos
 
-## 📊 Estatísticas
+- **Interface:** HTML, CSS, JavaScript, React, Next.js e Tailwind CSS.
+- **Aplicação e dados:** TypeScript, Node.js, Supabase e PostgreSQL.
+- **Versionamento:** Git e GitHub.
+- **Também estudo:** Python e Java.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true)
+## Contato
 
----
-
-## 📬 Contato
-
-[![Instagram](https://img.shields.io/badge/@kaua.chavex-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kaua.chavex)
-[![WhatsApp](https://img.shields.io/badge/(85)%2099125--4205-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5585991254205)
-
----
-
-*"Cada linha de código é um passo a mais rumo ao meu objetivo."* 💙
+[Currículo e portfólio](https://kaua-chavesvk.github.io/web-curiculo/) · [Instagram](https://instagram.com/kaua.chavex) · [WhatsApp](https://wa.me/5585991254205)
