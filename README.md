@@ -1,30 +1,35 @@
-# Olá, eu sou o Kauã Chaves!
+# Kauã Chaves
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fortaleza, CE. Busco uma oportunidade de estágio em TI e desenvolvo projetos para praticar interfaces web, integração com APIs e aplicações com autenticação e banco de dados.
+Estudo **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fortaleza (CE), e busco um **estágio em TI**. Meus projetos envolvem interfaces responsivas, integração com APIs e aplicações com autenticação e banco de dados.
 
-[Currículo e portfólio](https://kaua-chavesvk.github.io/web-curiculo/) · [Repositórios](https://github.com/kaua-chavesvk?tab=repositories) · [Atividade e contribuições](https://github.com/kaua-chavesvk)
+[Ver currículo e contato](https://kaua-chavesvk.github.io/web-curiculo/)
 
 ## Projetos em destaque
 
-| Projeto | O que você encontra | Tecnologias | Acessar |
-| --- | --- | --- | --- |
-| **EquipeDesk** | Aplicação de atendimento interno com chamados, empresas, papéis de acesso e integração com autenticação e banco de dados. O README registra as funcionalidades e os limites das validações. | Next.js, React, TypeScript, Tailwind CSS, Supabase e PostgreSQL | [Site](https://miakaelsondesk.vercel.app/) · [Código e documentação](https://github.com/kaua-chavesvk/equipedesk) |
-| **TicketNow** | Catálogo de eventos com busca, filtros e carrinho demonstrativo. Interface responsiva, testes e servidor opcional para integração com a Ticketmaster. A versão no GitHub Pages utiliza exemplos identificados, sem pagamentos. | HTML, CSS, JavaScript e Node.js | [Demonstração](https://kaua-chavesvk.github.io/ticketnow-portifolio/) · [Código e documentação](https://github.com/kaua-chavesvk/ticketnow-portifolio) |
-| **Currículo web** | Apresentação pessoal com formação, contato, projetos e impressão para salvar em PDF. | HTML, CSS e JavaScript | [Site](https://kaua-chavesvk.github.io/web-curiculo/) · [Código](https://github.com/kaua-chavesvk/web-curiculo) |
+### EquipeDesk
 
-### TicketNow em funcionamento
+Sistema de atendimento interno que organiza chamados em fila e em um quadro Kanban. Cada empresa tem seu espaço de trabalho, com permissões para solicitantes, atendentes e administradores.
 
-[![TicketNow: catálogo de eventos com busca, filtros e carrinho demonstrativo](https://raw.githubusercontent.com/kaua-chavesvk/ticketnow-portifolio/main/docs/images/ticketnow-desktop.png)](https://kaua-chavesvk.github.io/ticketnow-portifolio/)
+**Tecnologias** · Next.js, React, TypeScript, Tailwind CSS, Supabase e PostgreSQL.
 
-O [README do TicketNow](https://github.com/kaua-chavesvk/ticketnow-portifolio#readme) explica como executar, testar e configurar o catálogo real. O projeto não realiza cobranças, reservas ou emissão de ingressos.
+[Ver código e documentação](https://github.com/kaua-chavesvk/equipedesk#readme) · [Executar a demonstração local](https://github.com/kaua-chavesvk/equipedesk#iniciar-a-demonstra%C3%A7%C3%A3o-visual) · [Abrir o site (login)](https://miakaelsondesk.vercel.app/login)
 
-## Tecnologias que utilizo nos projetos
+<a href="https://github.com/kaua-chavesvk/equipedesk/blob/main/artifacts/workspace-kanban-dark-desktop.png">
+  <img src="https://raw.githubusercontent.com/kaua-chavesvk/equipedesk/main/artifacts/workspace-kanban-dark-desktop.png" alt="Quadro Kanban de chamados do EquipeDesk em tema escuro" width="620">
+</a>
 
-- **Interface:** HTML, CSS, JavaScript, React, Next.js e Tailwind CSS.
-- **Aplicação e dados:** TypeScript, Node.js, Supabase e PostgreSQL.
-- **Versionamento:** Git e GitHub.
-- **Também estudo:** Python e Java.
+### TicketNow
 
-## Contato
+Catálogo responsivo de eventos com busca, filtros e carrinho simulado. A demonstração usa eventos fictícios. O servidor opcional integra a API da Ticketmaster e tem testes automatizados para as regras do catálogo e do carrinho.
 
-[Currículo e portfólio](https://kaua-chavesvk.github.io/web-curiculo/) · [Instagram](https://instagram.com/kaua.chavex) · [WhatsApp](https://wa.me/5585991254205)
+**Tecnologias** · HTML, CSS, JavaScript e Node.js.
+
+[Testar a demonstração](https://kaua-chavesvk.github.io/ticketnow-portifolio/) · [Ver código e documentação](https://github.com/kaua-chavesvk/ticketnow-portifolio#readme)
+
+### Currículo web
+
+Site responsivo com minha formação, projetos e canais de contato. A versão de impressão é formatada em A4 e pode ser salva em PDF.
+
+**Tecnologias** · HTML, CSS e JavaScript.
+
+[Abrir o currículo](https://kaua-chavesvk.github.io/web-curiculo/) · [Ver código](https://github.com/kaua-chavesvk/web-curiculo#readme)
