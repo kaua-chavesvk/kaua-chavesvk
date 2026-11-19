@@ -24,7 +24,7 @@ Catálogo responsivo de eventos com busca, filtros e carrinho simulado. A demons
 
 **Tecnologias** · HTML, CSS, JavaScript e Node.js.
 
-[Testar a demonstração](https://kaua-chavesvk.github.io/ticketnow-portifolio/) · [Ver código e documentação](https://github.com/kaua-chavesvk/ticketnow-portifolio#readme)
+[Testar a demonstração](https://ticketnow-lilac.vercel.app/) · [Ver código e documentação](https://github.com/kaua-chavesvk/ticketnow-portifolio#readme)
 
 ### Currículo web
 
